@@ -89,7 +89,7 @@
     88      },
     89
     90      "gateway_conf": {
-    91          "gateway_ID": "0016C001F115F9F8",
+    91          "gateway_ID": "XXXXXXXXXX",
     92
     93          "server_address": "eu1.cloud.thethings.network",
     94          "serv_port_up": 1700,
