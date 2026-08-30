@@ -12,4 +12,4 @@ Eigenbau zur Messung Temperatur Raum2 innen und Entfernungsmessung
 
 der decode Uplink: decodeUplink_sensor1.js
 
-Der Sensor2 wurde auf Basis eines ESP32 entwickelt. ( TTGO_Sensor.ino )
+Der Sensor2 wurde auf Basis eines TTGO-ESP32 entwickelt. ( TTGO_Sensor.ino )
