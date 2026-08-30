@@ -1,4 +1,6 @@
-Teil 2 Integration Sensoren
+Teil 2 
+Integration Sensoren
+![Sensor_TTGO](./images/Sensor_TTGO.jpg)
 
 Anbindung Sensor1 :
 
