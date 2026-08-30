@@ -1,4 +1,4 @@
-2. Integration Sensoren
+Teil 2 Integration Sensoren
 
 Anbindung Sensor1 :
 
